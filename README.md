@@ -41,8 +41,3 @@ Run the main class:
 java MainClass
 
 This project is intended purely for academic and learning purposes. The algorithms presented here should not be used for securing sensitive data in real-world applications.
-
-
-كذا احط الملف بالضبط ؟
-
-
